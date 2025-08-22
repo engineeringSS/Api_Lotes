@@ -1,0 +1,14 @@
+{
+  "name": "mapa-api",
+  "version": "1.0.0",
+  "description": "API para el mapa de lotes de Cruz Corcovada",
+  "main": "api_mapa.js",
+  "scripts": {
+    "start": "node api_mapa.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
